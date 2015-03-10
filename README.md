@@ -34,3 +34,5 @@ Written in lovely Applescript
 
 I have no idea what other versions it might work on. Be careful 
 when running this if your versions do not match up with mine.
+
+As always, please only use this for music that you personally own. This script does not "crack" DRM, it simply removes it by burning it to a CD. Never steal music!
