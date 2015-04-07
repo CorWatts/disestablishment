@@ -7,12 +7,12 @@ Written in lovely Applescript
 - A playlist containing the protected tracks you wish to remove drm from
 
 ## Summary:
-1. create a long list of playlists to burn, sourced from one master playlist
+1. create a long list of playlists to burn, sourced from one master playlist  
 -------- start loop ------------
 2. burn playlist to cd
 3. import cd
 4. diskutil eraseOptical <optical disk>
-5. iterate to next playlist
+5. iterate to next playlist  
 -------- end loop -------------
 6. delete list of playlists
 
